@@ -1,2 +1,3 @@
 .vscode/
 blog_os/target/
+Cargo.lock
