@@ -1,6 +1,7 @@
 [package]
 name = "crate_name"
 version = "0.1.0"
+edition = "2021"
 authors = ["Author Name <author@example.com>"]
 
 # the profile used for `cargo build`
@@ -11,6 +12,7 @@ authors = ["Author Name <author@example.com>"]
 
 [[bin]]
 name = "blog_os"
+path = "src/main.rs"
 test = false
 bench = false
 
