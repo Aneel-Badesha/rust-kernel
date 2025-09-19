@@ -13,3 +13,6 @@ authors = ["Author Name <author@example.com>"]
 name = "blog_os"
 test = false
 bench = false
+
+[dependencies]
+bootloader = "0.9"
