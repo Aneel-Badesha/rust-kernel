@@ -1,4 +1,4 @@
-# rust-kernel
-Rust OS Kernel
+# Rust Kernel
+Building a Rust OS Kernel
 
 In-progress...
